@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/maciekzieba/algoritms/tree"
+	"github.com/maciekzieba/algorithms/tree"
 )
 
 func main() {
